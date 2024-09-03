@@ -1,2 +1,6 @@
-# EscapeRoom2024
- My first Unity game
+My first game and first time making artwork to this extent so everything isn't perfect. 
+The puzzles takes around 30 to 90 minutes. Your time will be given at the end. 
+The puzzles are medium difficulty and there is a hint available towards each puzzle.
+
+Music by Francisco Alvear (royalty free)
+
